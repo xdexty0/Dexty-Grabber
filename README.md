@@ -1,5 +1,5 @@
 <h1 align="center">
-   Waltuhium Grabber
+   Dexty Grabber
 </h1>
 <p align= "center">
    <kbd>
@@ -20,7 +20,7 @@
    <br>
 
 <p align="center">
-  Telegram server: https://t.me/waltuhium
+  Telegram server: https://t.me/dexty34
  </p>
    
    <br>
@@ -52,7 +52,7 @@ While this marks the end of my direct involvement with this project, I sincerely
 Thank you all once again for being part of this journey. I wish you all the best in your endeavors and hope our paths may cross again in the future.
 
 Best regards,  
-waltuhium
+dexty
 
 ## Table of Contents
 
@@ -167,7 +167,8 @@ waltuhium
 
 If you find this project useful and would like to show your support, you can make a donation using the following cryptocurrencies:
 
-- **Ethereum (ETH):**
-  - Wallet Address: 0x4a3C6a069D2F4EE9A21255cc4a916ABAdDde9d3D
+- **LiteCoin (LTC):**
+  - Wallet Address: LUddMq5iFyGqJeU2hBSer2a4vU5GwHAa4A
+
 
 
