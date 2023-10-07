@@ -8,5 +8,7 @@
 ![image](https://github.com/xdexty0/Dexty-Grabber/assets/147257219/e62fc077-9741-4c17-9950-b75c3c52b72c)
 ![image](https://github.com/xdexty0/Dexty-Grabber/assets/147257219/b8e7b3e7-c0f0-41ed-95ad-6e1b919237da)
 ![image](https://github.com/xdexty0/Dexty-Grabber/assets/147257219/ca96f120-54d9-4418-8464-0e9e811bfaba)
-                              Telegram server: https://t.me/dexty34
+                             
+
+ Telegram server: https://t.me/dexty34
  
