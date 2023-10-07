@@ -3,7 +3,7 @@
 
 
 
-<p align="center"><a href="https://t.me/CrealStealer" target="_blank">telegram group</a>
+<p align="center"><a href="https://t.me/dexty34" target="_blank">telegram group</a>
 
 
 <h2 align="center"> created by; </h1> 
@@ -56,7 +56,7 @@
  
                                                       ⬇️ Setup (Manual)
  
-- First paste and save your webhook address instead of `"WEBHOOK HERE"` in Creal.py
+- First paste and save your webhook address instead of `"WEBHOOK HERE"` in Dexty.py
 
 - If you use obfuscator it will be undetectable.
 
