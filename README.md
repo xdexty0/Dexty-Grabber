@@ -20,6 +20,7 @@
    <br>
 
 <p align="center">
+Discord server: https://discord.gg/wGX26mQkhf
   Telegram server: https://t.me/dexty34
  </p>
    
